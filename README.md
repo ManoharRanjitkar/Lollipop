@@ -1,4 +1,4 @@
 # Lollipop
 First Github repository<br>
-Name = Manohar Ranjitkar 23 \n
+Name = Manohar Ranjitkar 23 <br>
 my name is Shisimaru.
