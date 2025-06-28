@@ -1,3 +1,3 @@
 # Lollipop
-First Github repository
-Name=Manohar Rnjitkar
+First Github repository<br>
+Name = Manohar Ranjitkar
