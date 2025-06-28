@@ -1,3 +1,3 @@
 # Lollipop
 First Github repository
-Nmae=Manohar Rnjitkar
+Name=Manohar Rnjitkar
